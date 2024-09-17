@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "regreplaceR"]
+	path = regreplaceR
+	url = https://github.com/gwangjinkim/regreplacer
 [submodule "xlsx2dfs"]
 	path = xlsx2dfs
 	url = https://github.com/gwangjinkim/xlsx2dfs
